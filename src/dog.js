@@ -2,13 +2,13 @@
 
 //const obj=new Animal('cat');
 
-class Dog{
-    constructor(name){
+class Dog {
+    constructor(name) {
         this.name = name;
     }
-    bark(){
+    bark() {
         //console.log(obj.getName());
-        return 'wah wah My name is '+this.name;
+        return 'wah wah My name is ' + this.name;
     }
 }
 

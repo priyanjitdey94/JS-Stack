@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "babel-node src/runner.js",
-    "webpack":"webpack"
+    "webpack": "webpack"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
@@ -19,6 +19,7 @@
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
+    "html-webpack-plugin": "^2.30.1",
     "jasmine-core": "^2.7.0",
     "karma": "^1.7.0",
     "webpack": "^3.5.2"
