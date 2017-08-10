@@ -1,0 +1,15 @@
+{
+  "name": "JS-Stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/priyanjitdey94/JS-Stack.git",
+  "author": "priyanjitdey94 <priyanjitcareer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel src -d lib"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
+  }
+}
