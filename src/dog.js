@@ -8,7 +8,7 @@ class Dog {
     }
     bark() {
         //console.log(obj.getName());
-        return 'wah wah My name is ' + this.name;
+        return 'wah wah!!!!!! My name is ' + this.name;
     }
 }
 
