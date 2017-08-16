@@ -1,7 +1,10 @@
 //const Animal= require('./animal.js');
 
 //const obj=new Animal('cat');
-
+/**
+* @constructor
+* @param {string} name - name of the doc
+*/
 class Dog {
     constructor(name) {
         this.name = name;
