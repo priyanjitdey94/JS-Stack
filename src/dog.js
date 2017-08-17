@@ -17,3 +17,5 @@ class Dog {
 
 // export default Dog;
 module.exports = Dog;
+
+// I added this in the dev1 branch
